@@ -18,3 +18,10 @@
     flex-direction: column;
     justify-content: flex-end;
 }
+
+#SavedLists {
+    display: flex;
+    margin: 2em;
+    border: solid;
+    
+}
