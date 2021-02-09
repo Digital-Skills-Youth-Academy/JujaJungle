@@ -19,9 +19,11 @@
     justify-content: flex-end;
 }
 
-#SavedLists {
+.SavedLists {
     display: flex;
     margin: 2em;
     border: solid;
+    height: 30%;
+    width: 15%;
     
 }
