@@ -29,5 +29,12 @@
     
 }
 #ListTwo {
-    
+    margin: 1em;
+    border: solid;
+    border-color: indigo;
+    width: 6%;
+    background: salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
