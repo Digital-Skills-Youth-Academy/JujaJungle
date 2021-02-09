@@ -1,6 +1,7 @@
-#Lists {
+#ListOne {
     display: flex;
     justify-content: flex-start;
+    height: 25%;
 }
 #Overhead {
     display: flex;
@@ -25,5 +26,8 @@
     border: solid;
     height: 30%;
     width: 15%;
+    
+}
+#ListTwo {
     
 }
