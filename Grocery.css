@@ -12,9 +12,9 @@
 .button {
     margin: 1em;
     border: solid;
-    border-color: indigo;
+    border-color: olivedrab;
     width: 6%;
-    background: salmon;
+    background: aquamarine;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
