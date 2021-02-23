@@ -13,7 +13,7 @@
     margin: 1em;
     border: solid;
     border-color:cyan;
-    width: 6%;
+    width: 7em;
     background: oldlace;
     display: flex;
     flex-direction: column;
@@ -26,10 +26,10 @@
     border: solid;
     border-color: antiquewhite;
     height: 30%;
-    width: 15%;
+    width: 15em;
     background-color: antiquewhite;
 }
-#ListTwo {
+/*#ListTwo {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -38,4 +38,4 @@
     border-color: hotpink;
     width: 100%;
 
-}
+} */
