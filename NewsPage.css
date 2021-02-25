@@ -19,16 +19,16 @@ body {
 
 .art_img {
     /*border: 1px solid black;*/
-    /* margin-top: 100px; */
+    /* margin-top: 100px;  */
     height: 350px;
     width: 350px;
     position: absolute; 
 }
 .article {
     position: absolute;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin-left: 425px;
-    margin-top: 110px;
+    margin-top: 15px;
     height: auto;
     width: 600px;
 
@@ -36,12 +36,31 @@ body {
 .flex {
     display: flex;
     flex-direction: column;
-}
-.flex > div {
+    margin-top:100px;
+    position: absolute;
     
-    width: 550px;
+}
+.flex .post {
+    height: 400px;
+    width: 1050px;
+    border: 1px solid black;
+    margin: 50px;
   }
-/* .header {
+  .flex .expand {
+    height: 2000px;
+    width: 1050px;
+    border: 1px solid black;
+    margin: 50px;
+  }
+  .expandArticle {
+    display : block;
+    height : 1000px;
+  }
+  .condense {
+    display : none;
+    height: 0px;
+  }
+.header {
     font-size: 35px;
     font-family: 'Roboto', sans-serif;
 }
@@ -56,4 +75,5 @@ body {
 .footer {
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-} */
+}
+/* blue 4D9DE0 green 5A7271 lavender E8D7F1 thistle D3BCCC */
