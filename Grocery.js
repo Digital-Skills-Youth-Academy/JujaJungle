@@ -7,6 +7,7 @@ var plasticUsed//= bagWeight*;
 var button= document.getElementById('newList');
 button.addEventListener('click', draftList)
 
+Element.classList.add("");
 
 function draftList() {
     console.log ('yeah its working!');

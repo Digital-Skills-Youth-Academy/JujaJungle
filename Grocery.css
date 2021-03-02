@@ -20,9 +20,9 @@
 .button {
     margin: 1em;
     border: solid;
-    border-color:cyan;
+    border-color:  rgb(90, 114, 113) rgb(77, 157, 224) ;
     width: 7em;
-    background: oldlace;
+    background-color:rgb(211, 188, 204) ;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -32,10 +32,13 @@
     display: flex;
     margin: 2em;
     border: solid;
-    border-color: cyan;
-    background-color: antiquewhite;
+    border-color:  rgb(90, 114, 113) rgb(77, 157, 224);
+    background-color: rgb(211, 188, 204);
 }
 #savedLists {
     display: grid;
     grid-template-columns: auto auto auto auto;
+}
+body {
+    background-color: rgb(232, 215, 241) ;
 }
