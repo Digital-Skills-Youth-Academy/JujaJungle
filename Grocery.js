@@ -8,7 +8,7 @@ var button= document.getElementById('newList');
 button.addEventListener('click', draftList)
 
 
-var button2= document.getElementById('typeList');
+var button2= document.getElementById('meatOfButton');
 button2.addEventListener('click', toLists);
 //Element.classList.add("");
 
@@ -18,7 +18,7 @@ var draftTwo = document.getElementById('listThree');
 var draftList = document.getElementById('listTwo');
 var draftThree = document.getElementById('listOne');
 
-var newList = document.getElementById('typeList');
+var newList = document.getElementById('SaveListContent');
 
 newList.style.display='none';
 
