@@ -148,3 +148,6 @@ a {
     flex-direction: column;
     justify-content: flex-end;
 } 
+p:hover {
+cursor: pointer;
+}
