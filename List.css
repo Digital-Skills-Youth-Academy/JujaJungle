@@ -1,0 +1,27 @@
+.ListTwo {
+    margin: 1em;
+    border: solid;
+    border-color: cyan;
+    background-color: oldlace;
+    width: 9%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+#ListProper {
+ border: solid;
+ width: 75%;
+ height: 5%;
+}
+#saveList {
+    margin: 1em;
+    border: solid;
+    border-color: cyan;
+    background-color: oldlace;
+    width: 9%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
