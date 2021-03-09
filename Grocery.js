@@ -25,10 +25,10 @@ newList.style.display='none';
 
 function toLists() {
     newList.style.display='none';
-    draftTwo.style.display='block';
-    draftThree.style.display='block';
-    draftList.style.display='block';
-    button.style.display='block';
+    draftTwo.style.display='flex';
+    draftThree.style.display='flex';
+    draftList.style.display='flex';
+    button.style.display='flex';
     
 }
 
@@ -43,5 +43,5 @@ function draftList() {
 
     button.style.display='none';
 
-    newList.style.display='block';
+    newList.style.display='flex';
 }
