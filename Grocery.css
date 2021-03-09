@@ -144,7 +144,6 @@ a {
     border: solid;
     border-color:  rgb(90, 114, 113) rgb(77, 157, 224) ;
     width: 7em;
-    background-color:rgb(211, 188, 204) ;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
